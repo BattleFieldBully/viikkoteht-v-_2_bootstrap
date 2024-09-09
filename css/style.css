@@ -1,0 +1,33 @@
+header {
+    background-color: #f5f5f5;
+    height: 100px;
+}
+
+nav {
+    background-color: #f5f5f5;
+}
+
+div {
+    
+}
+
+aside {
+    
+}
+
+footer {
+    display: block;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: #f5f5f5;
+}
+
+
+h-100 {
+    height: 100%;
+}
+
+
+  
